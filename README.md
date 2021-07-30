@@ -5,4 +5,4 @@ Through this IBM certificated course I enhanced my skills with Python for data w
 
 ![](https://github.com/ds-mathias/IBM-data-analysis-with-python/blob/main/plots.JPG)
 
-Attached is the peer-marked Jupyter notebook that I completed to gain certification in this course.
+Attached is the peer-marked Jupyter notebook that I completed to gain certification in this course. Certificate can be viewed here: https://www.coursera.org/account/accomplishments/certificate/R32PU8KKTWBN
